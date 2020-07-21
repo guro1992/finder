@@ -412,3 +412,9 @@ table th {
     justify-content: center;
   }
 }
+
+.github-icon {
+  height: 40px;
+  width: 40px;
+  padding-top: 15px;
+}
